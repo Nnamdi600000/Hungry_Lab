@@ -1,0 +1,2 @@
+# Hungry_Lab
+-Hungry lab is a restaurant app which contains all the list of items the restaurant has, the app has three sections the 'The Starters, Main Menu and dessert section'. To order, you would click on the email address text to send your order. - Implemented using Android studio, XML and Java. - In this project I learnt about classes &amp; Object, arrays, the types of Intent in android, how to use RelativeLayout and ListView in android
